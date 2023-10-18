@@ -1,0 +1,18 @@
+[
+    {
+        "priorityId":1,
+        "priorityName":"Critical"
+    },
+    {
+        "priorityId":2,
+        "priorityName":"High"
+    },
+    {
+        "priorityId":3,
+        "priorityName":"Minor"
+    },
+    {
+        "priorityId":4,
+        "priorityName":"Major"
+    }
+]

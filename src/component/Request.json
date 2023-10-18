@@ -1,0 +1,62 @@
+[
+    {
+      "reqid": 1,
+      "docname": "Word",
+      "lastreview": "Sandya",
+      "receivedon": "22/01/2023",
+      "importedon": "10/02/2023",
+      "requeststatus": "Open",
+      "openrequest": 10,
+      "requestdetails": "Word Docx"
+    },
+    {
+      "reqid": 2,
+      "docname": "PPT",
+      "lastreview": "Shilpa",
+      "receivedon": "23/01/2023",
+      "importedon": "11/02/2023",
+      "requeststatus": "In Progress",
+      "openrequest": 1,
+      "requestdetails": "Power Point"
+    },
+    {
+        "reqid": 3,
+        "docname": "Excel",
+        "lastreview": "Anusha",
+        "receivedon": "25/01/2023",
+        "importedon": "15/02/2023",
+        "requeststatus": "Resolved",
+        "openrequest": 15,
+        "requestdetails": "Excel doc"
+    },
+    {
+        "reqid": 4,
+        "docname": "Open Office",
+        "lastreview": "Amy Verghis",
+        "receivedon": "30/01/2023",
+        "importedon": "18/02/2023",
+        "requeststatus": "Closed",
+        "openrequest": 0,
+        "requestdetails": "Open Office"
+    },
+    {
+        "reqid": 5,
+        "docname": "Blank",
+        "lastreview": "Jack & Johnson",
+        "receivedon": "30/01/2023",
+        "importedon": "19/02/2023",
+        "requeststatus": "Resolved",
+        "openrequest": 15,
+        "requestdetails": "Excel doc"
+    },
+    {
+        "reqid": 6,
+        "docname": "Word",
+        "lastreview": "Anusha",
+        "receivedon": "12/01/2023",
+        "importedon": "25/02/2023",
+        "requeststatus": "Resolved",
+        "openrequest": 8,
+        "requestdetails": "MS Word"
+    }
+]

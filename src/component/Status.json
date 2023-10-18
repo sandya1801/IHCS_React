@@ -1,0 +1,18 @@
+[
+    {
+        "statusId":1,
+        "statusName":"Open"
+    },
+    {
+        "statusId":2,
+        "statusName":"In Progress"
+    },
+    {
+        "statusId":3,
+        "statusName":"Resolved"
+    },
+    {
+        "statusId":4,
+        "statusName":"Closed"
+    }
+]
